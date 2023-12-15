@@ -219,3 +219,5 @@ app_license = "mit"
 # auth_hooks = [
 #	"recaptcha.auth.validate"
 # ]
+
+signup_form_template = "recaptcha/templates/signup.html"
